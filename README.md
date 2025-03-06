@@ -40,4 +40,4 @@ Este proyecto tiene los siguientes objetivos principales:
 - **AWS**: Para alojar la aplicación en la nube, asegurando escalabilidad.
 
 ## Planificación
-En total aproximadamente podría tardar 11-12 semanas, no sé exactamente cuánto me costará realizarlo (había pensado también que me gustaría una especie de juego de cartas por turnos básico pero pensé que sería avanzado para mí, asíque me decanté por esta opción que es mas funcional profesionalmente)
+En total aproximadamente podría tardar 11-12 semanas, no sé exactamente cuánto me costará realizarlo (había pensado también que me gustaría una especie de juego de cartas por turnos básico pero pensé que sería avanzado para mí, asíque me decanté por esta opción que es más funcional profesionalmente)
