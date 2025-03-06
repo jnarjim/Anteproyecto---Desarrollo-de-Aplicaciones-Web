@@ -4,7 +4,7 @@
 ## Autor
 Jorge Naranjo Jiménez
 
-## Introducción del Proyecto
+## Introducción del proyecto
 
 El proyecto consiste en desarrollar una plataforma web que permita la gestión de citas para profesionales, como médicos, peluqueros o asesores. Los usuarios podrán registrarse, reservar citas y recibir notificaciones sobre sus reservas.
 
@@ -23,7 +23,7 @@ Este proyecto tiene los siguientes objetivos principales:
 5. **Mejorar la experiencia del usuario**: Facilitar a los usuarios la posibilidad de modificar o cancelar citas de forma sencilla, asegurando una interfaz intuitiva y fácil de usar.
 6. **Escalabilidad**: Asegurar que la plataforma sea escalable, permitiendo integrar más profesionales y clientes sin afectar el rendimiento del sistema.
 
-## Medios a Utilizar
+## Medios a utilizar
 
 ### Backend:
 - **Django**: Framework web para gestionar la lógica del servidor.
