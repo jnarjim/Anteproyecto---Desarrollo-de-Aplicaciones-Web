@@ -27,7 +27,7 @@ Este proyecto tiene los siguientes objetivos principales:
 
 ### Backend:
 - **Django**: Framework web para gestionar la lógica del servidor.
-- **Django Rest Framework**: Para crear una API RESTful si se decide separar el frontend y el backend.
+- **Django Rest Framework**: Para crear una API si se decide separar el frontend y el backend.
 - **PostgreSQL** o **MySQL**: Bases de datos relacionales para almacenar la información de los usuarios y las citas.
 - **JWT (JSON Web Token)**: Para la autenticación de usuarios.
 
