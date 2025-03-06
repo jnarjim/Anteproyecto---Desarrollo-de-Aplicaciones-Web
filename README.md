@@ -10,7 +10,7 @@ El proyecto consiste en desarrollar una plataforma web que permita la gestión d
 
 ## Finalidad
 
-La finalidad de este proyecto es crear una plataforma web eficiente y fácil de usar para la gestión de citas. Su propósito es facilitar a los profesionales la administración de sus agendas y permitir a los clientes realizar reservas, todo de manera automática, reduciendo los errores y mejorando la experiencia tanto para usuarios como para administradores. La plataforma también permitirá una mejor comunicación entre clientes y profesionales mediante notificaciones, garantizando que todas las citas sean gestionadas de forma eficiente.
+La finalidad de este proyecto es crear una plataforma web eficiente y fácil de usar para la gestión de citas. Su propósito es facilitar a los profesionales la administración de sus agendas y permitir a los clientes realizar reservas. La plataforma también permitirá una mejor comunicación entre clientes y profesionales mediante notificaciones, garantizando que todas las citas sean gestionadas de forma eficiente.
 
 ## Objetivos
 
